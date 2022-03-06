@@ -2,3 +2,6 @@
 Using data extraction we extract company information which is listed in NSE(National Stock Exchange)/BSE(Bombay Stock Exchange).
 example: TCS, INFY, ITC, HDFC, ASIANPAINT, BRITANNIA, MARICO etc.
 ## <a href="https://companyinfo4.herokuapp.com/">Demo link</a>
+
+<small>:shushing_face: Website used for extract data is used for learning purpose only.</small>
+
